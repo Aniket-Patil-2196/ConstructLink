@@ -242,7 +242,7 @@ int main() {
 
     while (running) {
         cout << "\n=============================\n";
-        cout << "     Welcome to Construct Link\n";
+        cout << "  Welcome to Construct Link\n";
         cout << "=============================\n";
         cout << "1. Sign Up\n2. Login\n3. Exit\nChoice: ";
         cin >> choice;

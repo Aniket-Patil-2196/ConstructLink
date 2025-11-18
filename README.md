@@ -32,8 +32,6 @@ Users can **sign up, log in, post jobs, search jobs**, and interact with a minim
 ```
 /ConstructLink
 │── main.cpp
-│── User class
-│── Job class
 │── images/
 │    └── terminal-demo.png
 │── README.md
